@@ -8,6 +8,10 @@ const sans = DM_Sans({ variable: "--font-sans", subsets: ["latin"], weight: ["40
 export const metadata: Metadata = {
   title: "Cine Fortuna — A roleta dos vencedores do Oscar",
   description: "Gire a roleta e descubra seu próximo filme entre todos os vencedores do Oscar de Melhor Filme.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
