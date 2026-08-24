@@ -2,6 +2,10 @@
 
 Uma roleta interativa com os 98 vencedores do Oscar de Melhor Filme, de 1929 a 2026. Escolha uma época, gire a roleta e descubra o filme da próxima sessão.
 
+## Acesse o projeto
+
+**[roleta-do-oscar.vercel.app](https://roleta-do-oscar.vercel.app/)**
+
 ## Rodar com Docker
 
 ```bash
@@ -28,7 +32,7 @@ npm run dev
 
 - React 19
 - TypeScript
-- vinext / Vite
+- Next.js 16
 - Tailwind CSS
 - Docker e Docker Compose
 
