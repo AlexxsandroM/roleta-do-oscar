@@ -3,6 +3,7 @@
 .npm-cache
 .wrangler
 .vinext
+.next
 dist
 node_modules
 work
